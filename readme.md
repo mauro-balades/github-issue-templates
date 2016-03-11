@@ -6,4 +6,4 @@ GitHub finally supports [issue template](https://github.com/blog/2111-issue-and-
 
 Find your issue/PR templates, and just grab and go.
 
-Inspired by excellent GitHub projects.
+Inspired by excellent GitHub projects that use issue and pull request templates.
