@@ -17,7 +17,7 @@ NOTE: ISSUES ARE NOT FOR CODE HELP - Ask for Help at https://stackoverflow.com
 
 #### Your Code
 
-```js
+```
 If relevant, paste all of your challenge code in here
 ```
 
