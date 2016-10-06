@@ -8,6 +8,7 @@ Find your issue/PR templates, and just grab and go.
 
 Inspired by excellent GitHub projects that use issue and pull request templates.
 
+*See also [awesome-github-templates](https://github.com/devspace/awesome-github-templates) for more examples in real projects :tada:*
 
 ## License
 
