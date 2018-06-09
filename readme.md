@@ -2,6 +2,13 @@
 
 GitHub finally supports [issue template](https://github.com/blog/2111-issue-and-pull-request-templates).
 
+*Update*: GitHub now also supports [multiple issue templates](https://help.github.com/articles/about-issue-and-pull-request-templates/). [emoji-guide](./emoji-guide) is copied from the [awesome babel project](https://github.com/babel/babel/tree/master/.github)
+
+# How to create  a issue template?
+
+- [Creating issue templates for your repository](https://help.github.com/articles/creating-issue-templates-for-your-repository/)
+- [Manually creating a single issue template for your repository](https://help.github.com/articles/manually-creating-a-single-issue-template-for-your-repository/)
+
 # 10+ templates for you to pick!
 
 Find your issue/PR templates, and just grab and go.
