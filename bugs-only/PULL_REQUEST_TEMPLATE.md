@@ -1,4 +1,4 @@
-Bug Fixes **ONLY**. NO NEW FEATURE ACCEPTED!
+THIS PROJECT IS IN MAINTENANCE MODE. We accept pull-requests for Bug Fixes **ONLY**. NO NEW FEATURES ACCEPTED!
 
 <!--- Provide a general summary of your changes in the Title above -->
 
