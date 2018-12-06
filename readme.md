@@ -17,7 +17,9 @@
 
 Find your issue/PR templates, and just grab and go.
 
-Inspired by excellent GitHub projects that use issue and pull request templates. [emoji-guide](./emoji-guide) is copied from the [babel project](https://github.com/babel/babel/tree/master/.github)
+*Inspired by excellent GitHub projects that use issue and pull request templates.*
+
+Templates here are either copied from or modified based on real projects on GitHub.
 
 *See also [awesome-github-templates](https://github.com/devspace/awesome-github-templates) for more examples in real projects :tada:*
 
