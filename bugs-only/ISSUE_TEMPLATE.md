@@ -1,4 +1,4 @@
-Issue tracker is **ONLY** used for reporting bugs. NO NEW FEATURE ACCEPTED! Use [stackoverflow](https://stackoverflow.com) for supporting issues.
+Issue tracker is **ONLY** used for reporting bugs. New features should be discussed on our slack channel. Please use [stackoverflow](https://stackoverflow.com) for supporting issues.
 
 <!--- Provide a general summary of the issue in the Title above -->
 
@@ -15,9 +15,9 @@ Issue tracker is **ONLY** used for reporting bugs. NO NEW FEATURE ACCEPTED! Use 
 <!--- Provide a link to a live example, or an unambiguous set of steps to -->
 <!--- reproduce this bug. Include code to reproduce, if relevant -->
 1.
-2.
-3.
-4.
+1.
+1.
+1.
 
 ## Context (Environment)
 <!--- How has this issue affected you? What are you trying to accomplish? -->
