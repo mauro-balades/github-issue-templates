@@ -8,7 +8,7 @@
 
 [Issue and Pull Request templates](https://blog.github.com/2016-02-17-issue-and-pull-request-templates/)
 
-# How to create a issue template?
+# How to create issue templates?
 
 - [Creating issue templates for your repository](https://help.github.com/articles/creating-issue-templates-for-your-repository/)
 - [Manually creating a single issue template for your repository](https://help.github.com/articles/manually-creating-a-single-issue-template-for-your-repository/)
