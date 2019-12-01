@@ -10,7 +10,7 @@
 
 # How to create issue templates?
 
-- [Creating issue templates for your repository](https://help.github.com/articles/creating-issue-templates-for-your-repository/)
+- [About issue and pull request templates](https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates)
 - ~~[Manually creating a single issue template for your repository](https://help.github.com/articles/manually-creating-a-single-issue-template-for-your-repository/)~~
 
 # 10+ templates for you to pick!
